@@ -13,7 +13,7 @@ body,
 }
 
 body {
-  font-family: sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   background-color: #f9fbfd;
 }
 
@@ -126,7 +126,7 @@ button[disabled] {
   }
 
   #password {
-    font-size: 1rem;
+    font-size: 1.5rem;
   }
 }
 
