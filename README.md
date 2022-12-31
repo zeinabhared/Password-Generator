@@ -17,4 +17,4 @@ The following animation shows the web application's appearance and functionality
 
 #
 
-Link to deployed application: https://zeinabhared.github.io/password-generator-/
+Link to deployed application: https://zeinabhared.github.io/Password-Generator/
